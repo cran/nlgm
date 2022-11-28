@@ -1,0 +1,9 @@
+c9c8ef0bd2e539df76c47cf5e2135a5a *DESCRIPTION
+2b4abc32b316f554bbb9d8ab79cb74ca *NAMESPACE
+0ed293b84687af31afcc3236df027441 *R/boot.pred.R
+c10d70ce645507ee1b6f5e649a62cf9b *R/fit.plot.R
+d4c82bbf24d3aa63b3685148250a5c17 *R/nlgm.R
+b80222459e9acf718770c3f3e3ae5ea3 *man/boot.pred.Rd
+fab3e21c2411c896e4910b02efb6b83e *man/fit.plot.Rd
+5cd8b1854a379678dcdef440301bf7c0 *man/nlgm-package.Rd
+2b89e4c3c6352dbeff75325f5c628271 *man/nlgm.Rd
